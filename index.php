@@ -10,5 +10,10 @@
 
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam porro atque quaerat reprehenderit perferendis? Repudiandae, quo excepturi. Quaerat ducimus ea, repellat repellendus ex, fugit consequatur libero possimus reiciendis culpa assumenda?</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio illo ducimus voluptatibus sequi ea cupiditate autem, odit alias voluptate velit consequuntur neque debitis commodi. Magni repellendus inventore fugit eaque natus.</p>
+
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
